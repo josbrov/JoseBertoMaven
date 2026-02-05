@@ -61,7 +61,7 @@ public class Main {
 
                 yOffset--;
             }
-            screen.readInput();
+
             screen.stopScreen();
 
 
